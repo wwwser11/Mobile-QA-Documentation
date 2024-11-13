@@ -56,7 +56,7 @@
 <img src="Images/Universes_Section/{Name}_Test_Passed_Screen.png" alt="Test Passed Screen" width="250" />
 <img src="Images/Universes_Section/{Name}_Test_Failed_Screen.png" alt="Test Failed Screen" width="250" />
 <img src="Images/Universes_Section/{Name}_Test_Passed_Share_Screen_Android.png" alt="Test Passed Share Screen Android" width="250" />
-<img src="Images/Universes_Section/{Name}_Test_Passed_Share_Screen_iOS.png" alt="Test Passed Share Screen iOS" width="250" />
+<img src="Images/Universes_Section/{Name}_Test_Passed_Shar_Screen_iOS.png" alt="Test Passed Share Screen iOS" width="250" />
 </p>
 *Screens illustrating different states in the "Universes" section, including test screens and sharing options.*
 
