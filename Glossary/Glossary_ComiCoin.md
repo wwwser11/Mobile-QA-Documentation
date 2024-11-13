@@ -17,8 +17,8 @@
 
 ## "Language List" Screen
 
-![Language List Screen]("Universes"_Section/"Language_List"_Screen_1.png)
-![Language List Screen]("Universes"_Section/"Language_List"_Screen_2.png)
+![Language List Screen](Images/"Universes"_Section/"Language_List"_Screen_1.png)
+![Language List Screen](Images/"Universes"_Section/"Language_List"_Screen_2.png)
 *Language list screen, where users can choose the app language.*
 
 ### Description of Elements:
