@@ -1,98 +1,88 @@
-,,,,,
-,,,,,
-,Name project,ComiCoin,,,
-,ComiCoin Version ,2.2.4,,,
-,Date of execution,,,,
-,Testing environment ,,,,
-,Tester's name (telegram nick),,,,
-,,,,,
-,,,,"@mealok_7
-iPhone 13 mini
-iOS 18.0.1
-10/18/2024",
 ID,Precondition,Title,Expected Result,Status,Comment/Link
-1. Download and Instalation,,,,,
-1.1,"1. App Store/ Google Play is opened.
-2. The app is available to download. ",Instal the app from the App Store/Google Play.,The app is installed.,,
+1. Download and Installation,,,,,
+1.1,"1. App Store/Google Play is opened.
+2. The app is available to download.",Install the app from the App Store/Google Play.,The app is installed.,,
+
 2. Launched,,,,,
 2.1,"1. The app is installed.
-2. The App store is opened on the App store/Google Play page.
-",Launch the app from the App Store/Google Play.,The app is launched.,,
+2. The App Store/Google Play page is opened.",Launch the app from the App Store/Google Play.,The app is launched.,,
 2.2,"1. The app is installed.
 2. The home screen is opened.",Launch the app via icon.,The app is launched.,,
-"3. ""Universes"" section ",,,,,
-3.1,"The ""Bitcoin Stories"" screen is opened",Tap the Share button,The link Dzengi.com is displayed on share menu,,
-3.2,"1. The ""Bitcoin Test"" screen is opened. 
-2. Give 4/5 correct answer
-3. The ""Bitcoin test passed"" screen is opened.",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-3.3,"The ""Ethereum Stories"" screen is opened",Tap the Share button,The link Dzengi.com is displayed on share menu,,
-3.4,"1. The ""Ethereum Test"" screen is opened. 
-2. Give 4/5 correct answer
-3. The ""Ethereum test passed"" screen is opened.",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-3.5,"The ""Ripple Stories"" screen is opened",Tap the Share button,The link Dzengi.com is displayed on share menu,,
-3.6,"1. The ""Ripple Test"" screen is opened. 
-2. Give 4/5 correct answer
-3. The ""Ripple test passed"" screen is opened.",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-3.7,"The ""Dogecoin Stories"" screen is opened",Tap the Share button,The link Dzengi.com is displayed on share menu,,
-3.8,"1. The ""Dogecoin Test"" screen is opened. 
-2. Give 4/5 correct answer
-3. The ""Dogecoin test passed"" screen is opened.",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-3.9,"The ""Dzengi.com Stories"" screen is opened.",Tap the Share button,The link Dzengi.com is displayed on share menu,,
-3.10,"1. The ""Dzengi.com Test"" screen is opened. 
-2. Give 4/5 correct answer
-3. The ""Dzengi.com test passed"" screen is opened.",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-"4. ""Training"" section
-",,,,,
-4.1,"1. The ""Training"" section is opened
-2. At least one riddle is solved
-3. The ""Wow"" screen is opened",Tap the [Share in social networks] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-4.2,,Tap the [Go to Dzengi.com] button,The Dzengi.com page is opened.,,
-"5. ""Our Products"" section",,,,,
-5.1,"The  ""Our Products"" screen is opened","Tap the ""Dzengi.com Exchange"" link",The Dzengi.com Exchange App page is opened on Dzengi.com  web.,,
-5.2,,"Tap the ""Dzengi.com Web"" link","The ""Dzengi.com"" Web page is opened",,
-5.3,,"Tap the ""Dzengi.com Academy"" link","The ""Dzengi.com "" Tokeninsed assets explained  is opened on Dzengi.com  web",,
-5.4,,"Tap the ""Cryptogram"" link"," ""Cryptogram""  page app in App Store /Google Play is opened.",,
-5.5,,"Tap the ""YouTube"" channel link","The ""Академия Dzengi.com"" YouTube is opened.",,
-5.6,,"Tap the""Crypto-assets Risk Disclosures"" link",The Crypto-assets risk disclosure is displayed.,,
-"6. ""Rate us"" section",,,,,
-6.1,"The ""Thanks"" Screen is opened","Tap the ""Rate on App Store/Google Play"" button",The App store/Google Play is opened,,
-6.2,"The ""Thanks"" Screen is opened","Tap the ""Share on social networks""",The Share menu is displayed,,
-6.3,"The ""Oops"" Screen is opened","Tap the ""Tell"" button ",The Email feedback screen is opened ,,
-"7. ""Feedback"" section",,,,,
-7.1,"The ""Feedback"" screen is opened","Tap the ""Contact us"" item",The Email feedback screen is opened/ Email form is opened,,
-7.2,,"Tap the ""Share"" item","The ""Share feedback"" screen is opened",,
-7.3,,"Tap the ""Go to website"" item","Redirect to  ""Dzengi.com"" page.",,
-7.4,,"Tap the ""Instagram"" icon","Redirect to ""Криптобиржа Dzengi.com"" Instagram",,
-7.5,,"Tap the ""Telegram"" icon",Redirect to Dzengi.com Telegram,,
-7.6,,"Tap the ""Youtube"" icon","Redirect to  ""Академия Dzengi.com"" YouTube.",,
-7.7,,"Tap the ""Facebook"" icon","Redirect to ""Криптобиржа Dzengi.com"" Facebook",,
-7.8,,"Tap the ""Tiktok"" icon","Redirect to ""Криптобиржа Dzengi.com"" Tiktok",,
-7.9,,"Tap the ""X"" icon","Redirect to ""Криптобиржа Dzengi.com"" X ",,
-7.10,,"Tap the ""OK"" icon","Redirect to ""Криптобиржа Dzengi.com"" OK",,
-7.11,,"Tap the ""VK"" icon","Redirect to ""Криптобиржа Dzengi.com"" VK",,
-"8. ""About the app"" section",,,,,
-8.1,"The ""About the app"" screen is opened","Tap ""Privacy Policy"" link","Redirect to ""Dzengi.com/privacy-policy-text""  page.",,
-"9. ""Share"" section",,,,,
-9.1.,"The ""Share"" screen is opened.",Tap [Share ComiCoin] button,The link ComiCoin App Store/ Google Play is displayed on the share menu,,
-"10.  ""All achievements"" section",,,,,
-10.1,"1.  All tests passed in the ""Universes"" section. 
-2. ""Get into practice!"" screen is opened",Tap the [Create account] button,Redirect to Dzengi.com ,,
-10.2,"1. All tests passed in the ""Universes"" section 
-2. ""Get into practice!"" screen is opened
-3. ""Keep studying!"" screen is opened
 
+3. "Universes" section,,,,,
+3.1,"The ""Bitcoin Stories"" screen is opened.",Tap the Share button.,The link Dzengi.com is displayed on the share menu.,,
+3.2,"1. The ""Bitcoin Test"" screen is opened.
+2. Give 4/5 correct answers.
+3. The ""Bitcoin test passed"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+3.3,"The ""Ethereum Stories"" screen is opened.",Tap the Share button.,The link Dzengi.com is displayed on the share menu.,,
+3.4,"1. The ""Ethereum Test"" screen is opened.
+2. Give 4/5 correct answers.
+3. The ""Ethereum test passed"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+3.5,"The ""Ripple Stories"" screen is opened.",Tap the Share button.,The link Dzengi.com is displayed on the share menu.,,
+3.6,"1. The ""Ripple Test"" screen is opened.
+2. Give 4/5 correct answers.
+3. The ""Ripple test passed"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+3.7,"The ""Dogecoin Stories"" screen is opened.",Tap the Share button.,The link Dzengi.com is displayed on the share menu.,,
+3.8,"1. The ""Dogecoin Test"" screen is opened.
+2. Give 4/5 correct answers.
+3. The ""Dogecoin test passed"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+3.9,"The ""Dzengi.com Stories"" screen is opened.",Tap the Share button.,The link Dzengi.com is displayed on the share menu.,,
+3.10,"1. The ""Dzengi.com Test"" screen is opened.
+2. Give 4/5 correct answers.
+3. The ""Dzengi.com test passed"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
 
-",Tap the [Go to] button,"Redirect to ""Dzengi.com Academy"" ",,
-10.3,"1. All tests passed in the ""Universes"" section 
-2. ""Get into practice!"" screen is opened
-3. ""Keep studying!"" screen is opened
-4. ""Follow us on social media!"" screen is opened
+4. "Training" section,,,,,
+4.1,"1. The ""Training"" section is opened.
+2. At least one riddle is solved.
+3. The ""Wow"" screen is opened.",Tap the [Share in social networks] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+4.2,,Tap the [Go to Dzengi.com] button.,The Dzengi.com page is opened.,,
 
-","Tap the ""Instagram"" link","Redirect to ""Криптобиржа Dzengi.com""  Instagram",,
-10.4,,"Tap the ""Telegram"" link","Redirect to ""Dzengi.com"" Telegram",,
-10.5,,"Tap the ""Facebook"" link","Redirect to ""Криптобиржа Dzengi.com"" Facebook",,
-10.6,,"Tap the ""Tiktok"" link","Redirect to ""Криптобиржа Dzengi.com"" Tiktok",,
-10.7,,"Tap the ""X"" link","Redirect to ""Криптобиржа Dzengi.com"" X ",,
-10.8,,"Tap the ""OK"" link","Redirect to ""Криптобиржа Dzengi.com"" OK",,
-10.9,,"Tap the ""VK"" link","Redirect to ""Криптобиржа Dzengi.com"" VK",,
-10.10,,"Tap the ""Youtube"" link","Redirect to ""Академия Dzengi.com"" YouTube.",,
+5. "Our Products" section,,,,,
+5.1,"The ""Our Products"" screen is opened.",Tap the ""Dzengi.com Exchange"" link.,The Dzengi.com Exchange App page is opened on Dzengi.com web.,,
+5.2,,"Tap the ""Dzengi.com Web"" link.","The ""Dzengi.com"" Web page is opened.",,
+5.3,,"Tap the ""Dzengi.com Academy"" link.","The ""Dzengi.com Tokenized assets explained"" page is opened on Dzengi.com web.",,
+5.4,,"Tap the ""Cryptogram"" link.","The ""Cryptogram"" page in App Store/Google Play is opened.",,
+5.5,,"Tap the ""YouTube"" channel link.","The ""Академия Dzengi.com"" YouTube channel is opened.",,
+5.6,,"Tap the ""Crypto-assets Risk Disclosures"" link.",The Crypto-assets risk disclosure page is displayed.,,
+
+6. "Rate us" section,,,,,
+6.1,"The ""Thanks"" screen is opened.","Tap the ""Rate on App Store/Google Play"" button.",The App Store/Google Play is opened.,,
+6.2,"The ""Thanks"" screen is opened.","Tap the ""Share on social networks"" button.",The Share menu is displayed.,,
+6.3,"The ""Oops"" screen is opened.","Tap the ""Tell"" button.",The Email feedback screen is opened.,,
+
+7. "Feedback" section,,,,,
+7.1,"The ""Feedback"" screen is opened.","Tap the ""Contact us"" item.",The Email feedback screen is opened.,,
+7.2,,"Tap the ""Share"" item.","The ""Share feedback"" screen is opened.",,
+7.3,,"Tap the ""Go to website"" item.","Redirects to the ""Dzengi.com"" page.",,
+7.4,,"Tap the ""Instagram"" icon.","Redirects to ""Криптобиржа Dzengi.com"" Instagram.",,
+7.5,,"Tap the ""Telegram"" icon.",Redirects to Dzengi.com Telegram.,,
+7.6,,"Tap the ""YouTube"" icon.","Redirects to ""Академия Dzengi.com"" YouTube.",,
+7.7,,"Tap the ""Facebook"" icon.","Redirects to ""Криптобиржа Dzengi.com"" Facebook.",,
+7.8,,"Tap the ""Tiktok"" icon.","Redirects to ""Криптобиржа Dzengi.com"" Tiktok.",,
+7.9,,"Tap the ""X"" icon.","Redirects to ""Криптобиржа Dzengi.com"" X.",,
+7.10,,"Tap the ""OK"" icon.","Redirects to ""Криптобиржа Dzengi.com"" OK.",,
+7.11,,"Tap the ""VK"" icon.","Redirects to ""Криптобиржа Dzengi.com"" VK.",,
+
+8. "About the app" section,,,,,
+8.1,"The ""About the app"" screen is opened.","Tap ""Privacy Policy"" link.","Redirects to ""Dzengi.com/privacy-policy-text"" page.",,
+
+9. "Share" section,,,,,
+9.1,"The ""Share"" screen is opened.",Tap the [Share ComiCoin] button.,The link ComiCoin App Store/Google Play is displayed on the share menu.,,
+
+10. "All achievements" section,,,,,
+10.1,"1. All tests passed in the ""Universes"" section.
+2. ""Get into practice!"" screen is opened.",Tap the [Create account] button.,Redirects to Dzengi.com.,,
+10.2,"1. All tests passed in the ""Universes"" section.
+2. ""Get into practice!"" screen is opened.
+3. ""Keep studying!"" screen is opened.",Tap the [Go to] button.,Redirects to ""Dzengi.com Academy"".,,
+10.3,"1. All tests passed in the ""Universes"" section.
+2. ""Get into practice!"" screen is opened.
+3. ""Keep studying!"" screen is opened.
+4. ""Follow us on social media!"" screen is opened.",Tap the ""Instagram"" link.,Redirects to ""Криптобиржа Dzengi.com"" Instagram.,,
+10.4,,"Tap the ""Telegram"" link.",Redirects to Dzengi.com Telegram.,,
+10.5,,"Tap the ""Facebook"" link.",Redirects to ""Криптобиржа Dzengi.com"" Facebook.,,
+10.6,,"Tap the ""Tiktok"" link.",Redirects to ""Криптобиржа Dzengi.com"" Tiktok.,,
+10.7,,"Tap the ""X"" link.",Redirects to ""Криптобиржа Dzengi.com"" X.,,
+10.8,,"Tap the ""OK"" link.",Redirects to ""Криптобиржа Dzengi.com"" OK.,,
+10.9,,"Tap the ""VK"" link.",Redirects to ""Криптобиржа Dzengi.com"" VK.,,
+10.10,,"Tap the ""YouTube"" link.",Redirects to ""Академия Dzengi.com"" YouTube.,,
