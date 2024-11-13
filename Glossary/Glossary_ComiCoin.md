@@ -48,3 +48,59 @@
 - **9. Language List**: Shows available languages.
 - **10. Current Language Checkmark**: Highlights the currently selected language.
 - **11. Scroll Bar**: Allows scrolling through a long list of languages.
+
+## "Universes" Section
+
+<p align="center">
+<img src="Images/Universes_Section/{Name}_Test_Screen.png" alt="Test Screen" width="250" />
+<img src="Images/Universes_Section/{Name}_Test_Passed_Screen.png" alt="Test Passed Screen" width="250" />
+<img src="Images/Universes_Section/{Name}_Test_Failed_Screen.png" alt="Test Failed Screen" width="250" />
+<img src="Images/Universes_Section/{Name}_Test_Passed_Share_Screen_Android.png" alt="Test Passed Share Screen Android" width="250" />
+<img src="Images/Universes_Section/{Name}_Test_Passed_Share_Screen_iOS.png" alt="Test Passed Share Screen iOS" width="250" />
+</p>
+*Screens illustrating different states in the "Universes" section, including test screens and sharing options.*
+
+### Description of Elements:
+- **1. Question Counter**: Displays the current question number out of the total.
+- **2. Unselected Answer**: An answer option that has not been selected.
+- **3. Wrong Answer**: An answer option that is incorrect.
+- **4. Correct Answer**: The correct answer to the question.
+- **5. [Next] Button**: Moves to the next question in the test.
+- **6. Answer Counter**: Shows the number of correct answers out of the total.
+- **7. "{Name}" Icon**: Icon representing the user's character or status.
+- **8. [Go to Achievements] Button**: Redirects the user to view achievements.
+- **9. [Share in Social Networks] Button**: Allows the user to share results on social media.
+- **10. [Repeat the Test] Button**: Restarts the test from the beginning.
+- **11. [Start Again] Button**: Returns to the initial screen for a new attempt.
+- **12. Share Menu**: System share menu allowing options for sharing results via different applications.
+
+
+## "Main Menu" Section
+
+<p align="center">
+<img src="Images/Main_Menu_Section/Main_Menu_Screen.png" alt="Main Menu Screen" width="250" />
+</p>
+*Main Menu screen showing navigation options and user information.*
+
+### Description of Elements:
+- **1. Miko Icon**: Displays the user's avatar or profile icon.
+- **2. Menu**: The main navigation menu with various options for app sections.
+- **3. "{Name}" Block**: Highlights the current section or selected item.
+- **4. "{Name}" Menu Item**: A menu item that directs to a specific app section.
+- **5. [Start Again] Button**: Allows the user to restart the application flow from the beginning.
+- **6. App Version**: Shows the current version of the application at the bottom of the menu.
+
+
+
+## "Start Again" Modal Window
+
+<p align="center">
+<img src="Images/Main_Menu_Section/Start_Again_Screen_Modal_Window.png" alt="Start Again Modal Window" width="250" />
+</p>
+*Modal window asking for confirmation to reset and start again.*
+
+### Description of Elements:
+- **1. Modal Window**: The main confirmation window that appears over the main screen.
+- **2. Close Button**: Closes the modal without performing any actions.
+- **3. [No] Button**: Declines the reset action and closes the modal.
+- **4. [Yes] Button**: Confirms the reset action and starts the process again from the beginning.
