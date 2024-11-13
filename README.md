@@ -4,7 +4,7 @@ This repository contains mobile QA documentation and resources for the **ComiCoi
 
 ## Contents
 
-- **Glossary**: A collection of key terms and definitions relevant to the ComiCoin app and its testing.
+- [Glossary](Glossary/Glossary_ComiCoin.md): A collection of key terms and definitions relevant to the ComiCoin app and its testing.
 - **Checklists**: Comprehensive checklists for smoke testing and business logic validation on Android and iOS platforms.
 - **Bug Reports**: Detailed reports of bugs discovered in the mobile app, documenting issues and resolutions.
 - **Mind Maps**: Visual mind maps that outline the business logic and structural flow of the app.
@@ -16,7 +16,7 @@ The goal of this repository is to centralize mobile QA documentation, making it 
 
 ## How to Use
 
-1. Start with the **Glossary** to familiarize yourself with key terms.
+1. Start with the [Glossary](Glossary/Glossary_ComiCoin.md) to familiarize yourself with key terms.
 2. Explore the **Checklists** section for smoke and business logic testing procedures.
 3. Review **Bug Reports** for known issues and their statuses.
 4. Use **Mind Maps** to understand the business logic and flow.
