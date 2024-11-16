@@ -10,6 +10,10 @@ This repository contains mobile QA documentation and resources for the **ComiCoi
 - [Mind Map](MindMaps/Mind_Map_ComiCoin_Mobile.pdf): Visual mind maps that outline the business logic and structural flow of the app.
 - **Test Cases**: Documentation of test cases for validating app functionality and ensuring quality.
 
+## Bug Reports
+
+You can review all identified bugs and their statuses in the Issues tab of this repository. This section contains up-to-date bug reports, along with discussions on resolutions and fixes.
+
 ## Purpose
 
 The goal of this repository is to centralize mobile QA documentation, making it easily accessible and understandable for development, QA, and other stakeholders involved in the ComiCoin app.
