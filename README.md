@@ -8,7 +8,7 @@ This repository contains mobile QA documentation and resources for the **ComiCoi
 - [Checklists](Checklists): Comprehensive checklists for smoke testing and business logic validation on Android and iOS platforms.
 - **Bug Reports**: Detailed reports of bugs discovered in the mobile app, documenting issues and resolutions.
 - [Mind Map](MindMaps/Mind_Map_ComiCoin_Mobile.pdf): Visual mind maps that outline the business logic and structural flow of the app.
-- **Test Cases**: Documentation of test cases for validating app functionality and ensuring quality.
+
 
 ## Bug Reports
 
