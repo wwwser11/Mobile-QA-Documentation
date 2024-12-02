@@ -12,7 +12,7 @@ This repository contains mobile QA documentation and resources for the **ComiCoi
 
 ## Bug Reports
 
-You can review all identified bugs and their statuses in the Issues tab of this repository. This section contains up-to-date bug reports, along with discussions on resolutions and fixes.
+All identified bugs and their statuses are documented in the Issues tab of this repository. This serves as a centralized hub for tracking and resolving bugs in the mobile app.
 
 ## Purpose
 
@@ -24,7 +24,6 @@ Checklists
 2. Explore the [Checklists](Checklists) section for smoke and business logic testing procedures.
 3. Review **Bug Reports** for known issues and their statuses.
 4. Use [Mind Map](MindMaps/Mind_Map_ComiCoin_Mobile.pdf) to understand the business logic and flow.
-5. Refer to **Test Cases** for in-depth testing scenarios.
 
 ## Contribution
 
