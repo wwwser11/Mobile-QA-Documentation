@@ -4,10 +4,10 @@ This repository contains mobile QA documentation, including a glossary, test che
 
 ## Contents
 
-- [Glossary](Glossary/Glossary_ComiCoin.md): A collection of key terms and definitions relevant to the app and its testing.
+- [Glossary](Glossary/Glossary.md): A collection of key terms and definitions relevant to the app and its testing.
 - [Checklists](Checklists): Comprehensive checklists for smoke testing and business logic validation on Android and iOS platforms.
 - **Bug Reports**: Detailed reports of bugs discovered in the mobile app, documenting issues and resolutions.
-- [Mind Map](MindMaps/Mind_Map_ComiCoin_Mobile.pdf): Visual mind maps that outline the business logic and structural flow of the app.
+- [Mind Map](MindMaps/Mind_Map.pdf): Visual mind maps that outline the business logic and structural flow of the app.
 
 
 ## Bug Reports
@@ -20,10 +20,10 @@ The goal of this repository is to centralize mobile QA documentation, making it 
 
 ## How to Use
 Checklists
-1. Start with the [Glossary](Glossary/Glossary_ComiCoin.md) to familiarize yourself with key terms.
+1. Start with the [Glossary](Glossary/Glossary.md) to familiarize yourself with key terms.
 2. Explore the [Checklists](Checklists) section for smoke and business logic testing procedures.
 3. Review **Bug Reports** for known issues and their statuses.
-4. Use [Mind Map](MindMaps/Mind_Map_ComiCoin_Mobile.pdf) to understand the business logic and flow.
+4. Use [Mind Map](MindMaps/Mind_Map.pdf) to understand the business logic and flow.
 
 ## Contribution
 
