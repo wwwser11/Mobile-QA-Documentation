@@ -1,4 +1,4 @@
-# ComiCoin Glossary
+# Glossary
 
 
 ## "Onboarding" Section
