@@ -1,4 +1,4 @@
-# ComiCoin Checklist - Smoke (Android/iOS)
+# Checklist - Smoke (Android/iOS)
 
 ---
 
@@ -33,7 +33,7 @@
 1. The app is installed.  
 2. The home screen is opened.
 
-**Steps**: Launch the app via icon.  
+**Steps**: Launch the app via the icon.  
 **Expected Result**: The app is launched.  
 **Status**:  
 **Comment/Link**:  
@@ -56,7 +56,7 @@
 3. The "Bitcoin test passed" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The link App Store/Google Play is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -74,7 +74,7 @@
 3. The "Ethereum test passed" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -92,7 +92,7 @@
 3. The "Ripple test passed" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -110,7 +110,7 @@
 3. The "Dogecoin test passed" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -128,7 +128,7 @@
 3. The "Dzengi.com test passed" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -143,7 +143,7 @@
 3. The "Wow" screen is opened.
 
 **Steps**: Tap the [Share in social networks] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
@@ -298,7 +298,7 @@
 
 **ID**: 8.1  
 **Precondition**: The "About the app" screen is opened.  
-**Steps**: Tap "Privacy Policy" link.  
+**Steps**: Tap the "Privacy Policy" link.  
 **Expected Result**: Redirects to "Dzengi.com/privacy-policy-text" page.  
 **Status**:  
 **Comment/Link**:  
@@ -310,7 +310,7 @@
 **ID**: 9.1  
 **Precondition**: The "Share" screen is opened.  
 **Steps**: Tap the [Share ComiCoin] button.  
-**Expected Result**: The link ComiCoin App Store/Google Play is displayed on the share menu.  
+**Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
 
