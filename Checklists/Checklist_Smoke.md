@@ -309,7 +309,7 @@
 
 **ID**: 9.1  
 **Precondition**: The "Share" screen is opened.  
-**Steps**: Tap the [Share ComiCoin] button.  
+**Steps**: Tap the [Share] button.  
 **Expected Result**: The App Store/Google Play link is displayed on the share menu.  
 **Status**:  
 **Comment/Link**:  
